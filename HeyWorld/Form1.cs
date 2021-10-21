@@ -19,7 +19,7 @@ namespace HeyWorld
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("hi");
+            MessageBox.Show("hi world");
         }
     }
 }
